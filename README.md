@@ -5,7 +5,7 @@ This is a configurable form with some different field types, and dynamically man
 
 The form should be able to handle reasonable changes to the provided
 configuration or input data based on the spec provided, including:
-● Adding or removing fields
-● Reordering fields
-● Changing where a field should read default values from or write inputted data to
-● Renaming fields
+- Adding or removing fields
+- Reordering fields
+- Changing where a field should read default values from or write inputted data to
+- Renaming fields
